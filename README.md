@@ -1,0 +1,1 @@
+# dynamic_list_of_posts_vue.js
